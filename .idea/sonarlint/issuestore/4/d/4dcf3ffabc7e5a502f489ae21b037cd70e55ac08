@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»€ÍÌ8¦âÖÖğ/
+J
+java:S1481."/Remove this unused "treeHeight" local variable.(ÇêÕÔÿÿÿÿÿ
+`
+java:S1128">Remove this unused import 'com.java.datastructure.NodeObject'.(êäÎğøÿÿÿÿ8ÌúÕÖğ/
+U
+java:S1128"3Remove this unused import 'javax.management.Query'.(³ì—ûşÿÿÿÿ8ÌúÕÖğ/
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ÌúÕÖğ/
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îé¬´
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÄ±èıÿÿÿÿ
